@@ -3,7 +3,7 @@ Wireless Keyboard           kb222                56.34          45
 HD Monitor                  hd122                89.67          39
 Wireless Mouse              wm211                39.89          43
 Hard Drive                  hd333                78.56          29
-SS Drive                    sd444               167.35          50
+SSD                         sd444               167.35          50
 Graphical Card              gc333               356.99          24
 SD Ram                      sr555                73.27          68
 DDR Ram                     dr667               123.56          73
