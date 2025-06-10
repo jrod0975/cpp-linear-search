@@ -8,3 +8,4 @@ Graphical Card              gc333               356.99          24
 SD Ram                      sr555                73.27          68
 DDR Ram                     dr667               123.56          73
 Pentium CPU                 pc777               456.79          49
+RTX 4090 GPU                gp666               1000.00         69
